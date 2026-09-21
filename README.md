@@ -1,6 +1,8 @@
-### Links &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact
+<pre>
+<strong>Links                     Contact</strong>
 
-[Bēhance ↗](https://behance.net/gildrb) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [mail@gildrb.com](mailto:mail@gildrb.com)<br>
-[Goodreads ↗](https://www.goodreads.com/gildrb) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Signal ↗](https://gildrb.com/contact)<br>
-[Letterboxd ↗](https://letterboxd.com/gildrb/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [X ↗](https://x.com/gilrdb)<br>
-[LinkedIn ↗](https://www.linkedin.com/in/gildrb/)
+<a href="https://behance.net/gildrb">Bēhance ↗</a>                 <a href="mailto:mail@gildrb.com">mail@gildrb.com</a>
+<a href="https://www.goodreads.com/gildrb">Goodreads ↗</a>               <a href="https://gildrb.com/contact">Signal ↗</a>
+<a href="https://letterboxd.com/gildrb/">Letterboxd ↗</a>              <a href="https://x.com/gilrdb">X ↗</a>
+<a href="https://www.linkedin.com/in/gildrb/">LinkedIn ↗</a>
+</pre>
