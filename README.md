@@ -1,21 +1,7 @@
-<table>
-<tr>
-<td width="50%" valign="top">
+### Links &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact
 
-<strong>Links</strong><br><br>
-<a href="https://behance.net/gildrb">Bēhance ↗</a><br>
-<a href="https://www.goodreads.com/gildrb">Goodreads ↗</a><br>
-<a href="https://letterboxd.com/gildrb/">Letterboxd ↗</a><br>
-<a href="https://www.linkedin.com/in/gildrb/">LinkedIn ↗</a>
-
-</td>
-<td width="50%" valign="top">
-
-<strong>Contact</strong><br><br>
-<a href="mailto:mail@gildrb.com">mail@gildrb.com</a><br>
-<a href="https://gildrb.com/contact">Signal ↗</a><br>
-<a href="https://x.com/gilrdb">X ↗</a>
-
-</td>
-</tr>
-</table>
+[Bēhance ↗](https://behance.net/gildrb) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [mail@gildrb.com](mailto:mail@gildrb.com)<br>
+[GitHub ↗](https://github.com/gildrb) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Signal ↗](https://gildrb.com/contact)<br>
+[Goodreads ↗](https://www.goodreads.com/gildrb) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [X ↗](https://x.com/gilrdb)<br>
+[Letterboxd ↗](https://letterboxd.com/gildrb/)<br>
+[LinkedIn ↗](https://www.linkedin.com/in/gildrb/)
