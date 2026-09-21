@@ -1,16 +1,22 @@
-## Hi there 👋
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<!--
-**gildrb/gildrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<strong>Links</strong><br><br>
+<a href="https://behance.net/gildrb">Bēhance ↗</a><br>
+<a href="https://github.com/gildrb">GitHub ↗</a><br>
+<a href="https://www.goodreads.com/gildrb">Goodreads ↗</a><br>
+<a href="https://letterboxd.com/gildrb/">Letterboxd ↗</a><br>
+<a href="https://www.linkedin.com/in/gildrb/">LinkedIn ↗</a>
 
-Here are some ideas to get you started:
+</td>
+<td width="50%" valign="top">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<strong>Contact</strong><br><br>
+<a href="mailto:mail@gildrb.com">mail@gildrb.com</a><br>
+<a href="https://gildrb.com/contact">Signal ↗</a><br>
+<a href="https://x.com/gilrdb">X ↗</a>
+
+</td>
+</tr>
+</table>
