@@ -4,7 +4,6 @@
 
 <strong>Links</strong><br><br>
 <a href="https://behance.net/gildrb">Bēhance ↗</a><br>
-<a href="https://github.com/gildrb">GitHub ↗</a><br>
 <a href="https://www.goodreads.com/gildrb">Goodreads ↗</a><br>
 <a href="https://letterboxd.com/gildrb/">Letterboxd ↗</a><br>
 <a href="https://www.linkedin.com/in/gildrb/">LinkedIn ↗</a>
